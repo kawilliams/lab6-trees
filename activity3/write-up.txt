@@ -1,0 +1,7 @@
+From Activity 1 (Transitions): What style attributes changed smoothly? Which changes happened abruptly? 
+From Activity 1 (Transitions): How might you add new data more gracefully? Assume that we know we will be shifting from 3 data points to 5 data points. You do not need to write code for this; pseudocode or words is what I’m looking for. You may consult external sources if needed.
+How long did this take (estimate)?
+What were the enjoyable aspects of the lab?
+What were the challenging parts of this lab?
+What resources did you use? Include links to websites below. 
+
